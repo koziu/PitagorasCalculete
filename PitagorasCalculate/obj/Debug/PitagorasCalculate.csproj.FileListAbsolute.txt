@@ -1,0 +1,8 @@
+c:\users\koziu\documents\visual studio 2015\Projects\PitagorasCalculate\PitagorasCalculate\obj\Debug\PitagorasCalculate.Form1.resources
+c:\users\koziu\documents\visual studio 2015\Projects\PitagorasCalculate\PitagorasCalculate\obj\Debug\PitagorasCalculate.Properties.Resources.resources
+c:\users\koziu\documents\visual studio 2015\Projects\PitagorasCalculate\PitagorasCalculate\obj\Debug\PitagorasCalculate.csproj.GenerateResource.Cache
+c:\users\koziu\documents\visual studio 2015\Projects\PitagorasCalculate\PitagorasCalculate\bin\Debug\PitagorasCalculate.exe.config
+c:\users\koziu\documents\visual studio 2015\Projects\PitagorasCalculate\PitagorasCalculate\bin\Debug\PitagorasCalculate.exe
+c:\users\koziu\documents\visual studio 2015\Projects\PitagorasCalculate\PitagorasCalculate\bin\Debug\PitagorasCalculate.pdb
+c:\users\koziu\documents\visual studio 2015\Projects\PitagorasCalculate\PitagorasCalculate\obj\Debug\PitagorasCalculate.exe
+c:\users\koziu\documents\visual studio 2015\Projects\PitagorasCalculate\PitagorasCalculate\obj\Debug\PitagorasCalculate.pdb
