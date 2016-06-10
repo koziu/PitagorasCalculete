@@ -6,3 +6,11 @@ c:\users\koziu\documents\visual studio 2015\Projects\PitagorasCalculate\Pitagora
 c:\users\koziu\documents\visual studio 2015\Projects\PitagorasCalculate\PitagorasCalculate\bin\Debug\PitagorasCalculate.pdb
 c:\users\koziu\documents\visual studio 2015\Projects\PitagorasCalculate\PitagorasCalculate\obj\Debug\PitagorasCalculate.exe
 c:\users\koziu\documents\visual studio 2015\Projects\PitagorasCalculate\PitagorasCalculate\obj\Debug\PitagorasCalculate.pdb
+C:\Users\mateusz.kozak.KI-CENTRALA\Documents\PitagorasCalculete\PitagorasCalculate\bin\Debug\PitagorasCalculate.exe.config
+C:\Users\mateusz.kozak.KI-CENTRALA\Documents\PitagorasCalculete\PitagorasCalculate\bin\Debug\PitagorasCalculate.exe
+C:\Users\mateusz.kozak.KI-CENTRALA\Documents\PitagorasCalculete\PitagorasCalculate\bin\Debug\PitagorasCalculate.pdb
+C:\Users\mateusz.kozak.KI-CENTRALA\Documents\PitagorasCalculete\PitagorasCalculate\obj\Debug\PitagorasCalculate.Form1.resources
+C:\Users\mateusz.kozak.KI-CENTRALA\Documents\PitagorasCalculete\PitagorasCalculate\obj\Debug\PitagorasCalculate.Properties.Resources.resources
+C:\Users\mateusz.kozak.KI-CENTRALA\Documents\PitagorasCalculete\PitagorasCalculate\obj\Debug\PitagorasCalculate.csproj.GenerateResource.Cache
+C:\Users\mateusz.kozak.KI-CENTRALA\Documents\PitagorasCalculete\PitagorasCalculate\obj\Debug\PitagorasCalculate.exe
+C:\Users\mateusz.kozak.KI-CENTRALA\Documents\PitagorasCalculete\PitagorasCalculate\obj\Debug\PitagorasCalculate.pdb
